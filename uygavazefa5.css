@@ -1,0 +1,10 @@
+.box {
+    display: flex;
+    gap: 50px;
+    margin-left: 800px;
+}
+.box1 {
+    display: flex;
+    gap: 50px;
+    color: gray;
+}
